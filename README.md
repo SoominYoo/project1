@@ -1,4 +1,10 @@
 # project1
 ![image](https://github.com/SoominYoo/project1/assets/126431813/9a406965-ce2b-44e1-848a-2ee098f5cb84)
 ![image](https://github.com/SoominYoo/project1/assets/126431813/c57fa289-fe0a-4e7d-825b-3e9907e4fac7)
-
+![image](https://github.com/SoominYoo/project1/assets/126431813/dfba41f0-014d-4b73-acba-dd7cf19ae26a)
+![image](https://github.com/SoominYoo/project1/assets/126431813/379a4c81-4958-4407-97f8-a70d2a8a6997)
+![image](https://github.com/SoominYoo/project1/assets/126431813/eb96cac1-d53a-44a2-bbb3-0414e511bd79)
+![image](https://github.com/SoominYoo/project1/assets/126431813/f8d42111-7e22-4ba1-a914-a281bd23ff13)
+![image](https://github.com/SoominYoo/project1/assets/126431813/b2b4d2aa-c22a-4489-9b2e-d00d2153e21f)
+![image](https://github.com/SoominYoo/project1/assets/126431813/d75eeaee-5236-4a44-83fb-1f2fe3ca41f8)
+![image](https://github.com/SoominYoo/project1/assets/126431813/67c2cae5-4475-4f0a-827f-070cdd157599)
