@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 public class WordCRUD implements ICRUD{
 
-
     ArrayList<Word> list;
     Scanner s;
     final String fname = "Dictionary.txt";
