@@ -25,7 +25,6 @@ public class WordManager {
             return s.nextInt();
     }
     public void start(){
-
         wordCRUD.loadFile();
         while(true){
             int menu = selectMenu();
