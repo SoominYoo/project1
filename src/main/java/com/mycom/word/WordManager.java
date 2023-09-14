@@ -20,7 +20,8 @@ public class WordManager {
                         + "0. 나가기\n"
                         + "*******************"
                         + "=> 원하는 메뉴는? : ");
-            return s.nextInt();
+
+        return s.nextInt();
     }
     public void start(){
         wordCRUD.loadFile();
@@ -30,7 +31,6 @@ public class WordManager {
                 System.out.println("프로그램 종료!! 다음에 만나요~ ");
                 break;
             }
-
             if(menu == 4){
                 wordCRUD.addItem();
             }
